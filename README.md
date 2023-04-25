@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hardik Metaliya</h1>  
 <h3 align="center">FrontEnd | Backend | MERN | Web-Dev | Software-Dev</h3>  
-  <img align="right"  alt="coding"  width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif"/>
 - 🌱 I’m currently learning **Backend**  
   
 - 💬 Ask me about **react,Javascript ,Css, html, C++**  
