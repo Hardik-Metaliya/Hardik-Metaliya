@@ -9,7 +9,7 @@
   
 - 📫 My Email **hardikmetaliya6121@gmail.com**  
   
-- 📄 Know about my experiences [Download Resume ](https://drive.google.com/uc?export=download&id=1yuPh3Etl_oFkkOLjjW180h8-1sD8w2Db)  
+- 📄 Know about my experiences [Download Resume ](https://drive.google.com/uc?export=download&id=1Rn_CVHbOwP1wbPkqhWxU5Q0k0nELgA4A)  
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
