@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend**  
   
-- 💬 Ask me about **react,Javascript ,Css, html, C++**  
+- 💬 Ask me about **react,Javascript,CSS, HTML, C++**  
   
 - 📫 My Email **hardikmetaliya6121@gmail.com**  
   
