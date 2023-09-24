@@ -7,6 +7,7 @@
 - 📄 [Download Resume](https://drive.google.com/uc?export=download&id=1Rn_CVHbOwP1wbPkqhWxU5Q0k0nELgA4A)
 
 ## Experience
+
 ## Full Stack Developer at [Composites Excellence Centre of Asia](https://cecaasia.com)
 
 - **Location:** Vadodara, Gujarat, India
