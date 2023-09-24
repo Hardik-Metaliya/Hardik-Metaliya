@@ -3,7 +3,7 @@
 - 🌱 Currently learning **Cloud**
 - 💼 Full Stack Developer at Composites Excellence Centre of Asia
 - 📫 Email: **hardikmetaliya6121@gmail.com**
-- 🔗 [Portfolio Website](https://hardikmetaliya.netlify.app/)
+- 🌐 [Portfolio Website](https://hardikmetaliya.netlify.app/)
 - 📄 [Download Resume](https://drive.google.com/uc?export=download&id=1Rn_CVHbOwP1wbPkqhWxU5Q0k0nELgA4A)
 
 ## Experience
