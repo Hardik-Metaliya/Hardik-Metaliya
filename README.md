@@ -1,4 +1,4 @@
-## FrontEnd | Backend | MERN | Web-Dev | Software-Dev
+# Hardik Metaliya | Full Stack Developer
 
 - 🌱 Currently learning **Cloud**
 - 💼 Full Stack Developer at Composites Excellence Centre of Asia
@@ -10,7 +10,7 @@
 ## Full Stack Developer at [Composites Excellence Centre of Asia](https://cecaasia.com)
 
 - **Location:** Vadodara, Gujarat, India
-- **Employment:** Full-time, On-site
+- **Employment:** Full-time, Hybrid
 - **Duration:** Jul 2023 - Present
 
 ### Experience
