@@ -13,8 +13,6 @@
 - **Employment:** Full-time, Hybrid
 - **Duration:** Jul 2023 - Present
 
-### Experience
-
 #### Key Responsibilities:
 
 - Developed and deployed Full Stack Web Applications (MERN Stack).
