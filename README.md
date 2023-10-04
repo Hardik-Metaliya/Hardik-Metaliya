@@ -27,7 +27,7 @@
 
 - **Frontend:** ReactJs, HTML, CSS, JavaScript
 - **Backend:** NodeJs, Express, MongoDB, Mongoose
-- **Other Tools:** Microsoft Graph API, Ubuntu Server, Nginx, DigitalOcean, SSL Certificate
+- **Other Tools:** Microsoft Graph API, Ubuntu Server, Nginx, DigitalOcean, SSL 
 
 For a detailed view of my experience, please visit my [LinkedIn profile](https://www.linkedin.com/in/hardikmetaliya/).
 
@@ -76,5 +76,5 @@ Other Technologies:
 
 <p align='left'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hardik-metaliya&show_icons=true&locale=en&layout=compact" alt="hardik-metaliya" style="display:inline-block;margin-right:10px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardik-metaliya&" alt="hardik-metaliya" style="display:inline-block;" />
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardik-metaliya&" alt="hardik-metaliya" style="display:inline-block;" /> -->
 </p>
