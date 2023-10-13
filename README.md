@@ -17,7 +17,8 @@
 #### Key Responsibilities:
 
 - Developed and deployed Full Stack Web Applications (MERN Stack).
-- Managed entire web development process from concept to deployment.
+- Managed the entire web development process from concept to deployment.
+- Creating EmailServer for admin and user notifications with email templates and dynamic data
 - Implemented robust security measures and user input sanitization.
 - Improved existing websites through in-depth analysis and enhancements.
 - Applied strong programming skills to solve real-life problems with elegant code solutions.
